@@ -1,0 +1,114 @@
+a:hover{
+    color: #794646;
+}
+a:active{
+    color: #59a5b8;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+
+.container{
+    width: 100%;
+}
+
+.floor1{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.f1-h1{
+    font-size: 35px;
+}
+
+.f1-p{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floor2{
+    width:100%;
+    align-items: center;
+    text-align: center;
+}
+
+.inputt{
+    width: 20%;
+    height: 50px;
+}
+.input-btns{
+    width: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.floor3{
+    margin-top: 150px;
+    height: 300vh;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;;
+    
+}
+
+.f3-r1-pomifiliya{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.f3-r1-pomuxala{
+    align-items: center;
+    text-align: center;
+}
+.pomifiliya-span-r1{
+    text-align: center;
+}
+
+.dub-pomifiliya-p{
+    width: 100%;
+}
+.dub-pomifiliya-h1{
+    width: 100%;
+    margin-top: 200px;
+}
+
+
+.f3-r1-pomuxala{
+    display: flex;
+    align-items: center;
+}
+
+
+.dub-pomuxala-h1{
+    width: 100%;
+}
+.dub-pomuxala-p{
+    width: 100%;
+}
+
+
+
+
+
+@media screen and (max-width:600px){
+    p{
+        font-size: 10px;
+    }
+    h1{
+        font-size: 25px;
+    }
+}

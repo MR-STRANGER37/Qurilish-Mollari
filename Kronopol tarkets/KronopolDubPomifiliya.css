@@ -1,0 +1,124 @@
+a:hover{
+    color: #794646;
+}
+a:active{
+    color: #59a5b8;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+
+.container{
+    width: 100%;
+}
+
+.floor1{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.dubPomifiliya-main-img{
+    object-fit: cover;
+}
+
+.f1-h1{
+    font-size: 35px;
+}
+
+.f1-p{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floor2{
+    width:100%;
+    align-items: center;
+    text-align: center;
+}
+
+.inputt{
+    width: 20%;
+    height: 50px;
+}
+.input-btns{
+    width: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.floor3{
+    margin-top: 150px;
+    height: 300vh;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.f3-r1-pomifiliya{
+    align-items: center;
+    display: flex;
+}
+
+.pomifiliya-span-r1{
+    margin-left: 50px;
+}
+
+.dub-pomifiliya-p{
+    width: 100%;
+}
+.dub-pomifiliya-h1{
+    width: 100%;
+}
+
+
+.f3-r1-pomuxala{
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+}
+.pomuxala-span-r1{
+    text-align: center;
+    align-items: center;
+}
+
+.dub-pomuxala-h1{
+    width: 100%;
+}
+.dub-pomuxala-p{
+    width: 100%;
+
+}
+
+
+
+
+.f3-r1-kasandra{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+}
+
+@media screen and (max-width:600px){
+    p{
+        font-size: 10px;
+    }
+    h1{
+        font-size: 25px;
+    }
+
+    
+}

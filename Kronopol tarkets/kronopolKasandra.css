@@ -1,0 +1,69 @@
+a:hover{
+    color: #794646;
+}
+a:active{
+    color: #59a5b8;
+}
+
+a{
+    color: black;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+
+.container{
+    width: 100%;
+    height: 160vh;
+}
+
+.floor1{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.f1-h1{
+    font-size: 35px;
+}
+
+.f1-p{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floor2{
+    width:100%;
+    align-items: center;
+    text-align: center;
+}
+
+.inputt{
+    width: 20%;
+    height: 50px;
+}
+.input-btns{
+    width: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.floor3{
+    margin-top: 150px;
+    height: 300vh;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.f3-kasandra-links{
+    margin-left: 25px;
+}
