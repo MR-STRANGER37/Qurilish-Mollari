@@ -19,8 +19,8 @@ body{
 
 .container{
     width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
+    text-align: center;
+    align-items: center;
 }
 
 .floor1{
@@ -88,4 +88,21 @@ body{
     width: 50%;
     text-align: center;
     margin-top: 150px;
+}
+
+
+
+@media all and (max-width:600px){
+    .f1-images{
+        display: block;
+        align-items: center;
+    }
+    .f1-kronopol-images{
+        display: block;
+        
+    }
+
+    .link-images{
+        display: block;
+    }
 }
