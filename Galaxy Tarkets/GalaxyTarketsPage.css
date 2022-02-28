@@ -35,13 +35,15 @@ body{
 }
 
 .f1-p{
-    width: 30%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
 
-
-
+.f1-images{
+    width: 100%;
+    align-items: center;
+}
 
 .floor2{
     width: 100%;
