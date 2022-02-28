@@ -78,3 +78,18 @@ body{
     text-align: center;
     margin-top: 150px;
 }
+
+
+
+@media all and (max-width:600px){
+    .f1-images{
+        display: block;
+    }
+    .f1-kronopol-images{
+        display: block;
+    }
+
+    .link-images{
+        display: block;
+    }
+}
