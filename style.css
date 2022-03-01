@@ -119,10 +119,10 @@ display: block;
 .last2{
     display: none;
 }
-.katta-ul2:active .lit-ul2{
+.katta-ul2:hover .lit-ul2{
     display: block;
 }
-.kichkina-UL-li2:active .last2{
+.kichkina-UL-li2:hover .last2{
     display: block;
     }
 
@@ -132,10 +132,10 @@ display: block;
     .last3{
         display: none;
     }
-    .katta-ul3:active .lit-ul3{
+    .katta-ul3:hover .lit-ul3{
         display: block;
     }
-    .kichkina-UL-li3:active .last3{
+    .kichkina-UL-li3:hover .last3{
         display: block;
         }
 
