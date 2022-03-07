@@ -41,15 +41,17 @@ body{
     border: solid 1px;
     position: relative;
     margin-top: -15px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: 50px;
 }
 
 .main-menu-div{
-    display: block;
+    display: flex;
+    text-align: center;
+    margin-left: 20px;
 }
 
 .f1-main-menu-ul{
+    width: 100%;
     display: flex;
 }
 
