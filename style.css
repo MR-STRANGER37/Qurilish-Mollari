@@ -114,6 +114,9 @@ body{
     .line{
         width: 100%;
     } 
+    .floor1{
+        display: block;
+    }
     /* input{
         width: 100%;
     }
