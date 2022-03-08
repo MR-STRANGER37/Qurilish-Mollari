@@ -25,6 +25,7 @@ body{
     padding-top: 20px;
     padding-bottom: 20px;
     align-items: center;
+    
 }
 
 .f1-h1{
@@ -42,7 +43,10 @@ body{
     position: relative;
     margin-top: -15px;
     margin-left: 20px;
+    margin-right: 20px;
+    margin: 0;
 }
+
 
 .main-menu-div{
     display: flex;
@@ -77,22 +81,31 @@ body{
 .f2-room1{
     width: 100%;
     display: flex;
+    align-items: center;
+    text-align: center;
 }
 .f2-r1-z1{
     text-align: center;
-    margin-left: 40px;
+    align-items: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .last-z1{
-    margin-right: 50px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
 }
 
 .floor2{
    width: 100%;
    align-items: center;
    text-align: center; 
-   padding-left: auto;
-   padding-right: auto;
+   margin-left: auto;
+   margin-right: auto;
    margin-top: 100px;
 }
 
@@ -101,7 +114,19 @@ body{
     .line{
         width: 100%;
     } 
-   
+    /* input{
+        width: 100%;
+    }
+    form{
+        width: 100%;
+    }
+    */
+    .f2-room1{
+        width: 100%;
+    }
+    .floor2{
+        width: 100%;
+    }
 }
 
 
