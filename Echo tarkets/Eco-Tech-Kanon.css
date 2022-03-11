@@ -49,18 +49,8 @@ object-fit: cover;
     text-align: center;
 }
 
-.inputt{
-    width: 20%;
-    height: 50px;
-}
-.input-btns{
-    width: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px; 
-    border: none;
-    background-color: black;
-    color: white;
-}
+
+
 .floor3{
     margin-top: 150px;
     height: 300vh;
@@ -76,6 +66,20 @@ object-fit: cover;
 }
 
 
+.main-Form{
+    width: 100%;
+    align-items: center;
+}
+.form-control{
+    width: 90%;
+    height: 60px;
+    background-color: hsl(218, 23%, 23%);
+    color: rgb(218, 218, 218);
+}
+.submit-btn{
+    width: 40%;
+    height: 60px;
+}
 
 .dub-pomifiliya-p{
     width: 100%;
@@ -108,7 +112,15 @@ object-fit: cover;
 
 
 
-
-
-
-
+@media screen and (max-width:600px){
+    p{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 25px;
+    }
+    .mainDubKorin-img{
+        max-width: 100%;
+    }
+    
+}
