@@ -70,7 +70,7 @@ object-fit: cover;
     width: 100%;
     align-items: center;
 }
-.inputt{
+.form-control{
     width: 90%;
     height: 60px;
     background-color: hsl(218, 23%, 23%);
