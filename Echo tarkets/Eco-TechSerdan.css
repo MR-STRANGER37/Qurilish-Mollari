@@ -1,0 +1,109 @@
+a:hover{
+    color: #794646;
+}
+a:active{
+    color: #59a5b8;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+
+.container{
+    width: 100%;
+}
+
+.floor1{
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainDubKorin-img{
+object-fit: cover;
+}
+
+.f1-h1{
+    font-size: 35px;
+}
+
+.f1-p{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floor2{
+    width:100%;
+    align-items: center;
+    text-align: center;
+}
+
+.main-Form{
+    width: 100%;
+    align-items: center;
+}
+.form-control{
+    width: 90%;
+    height: 60px;
+    background-color: hsl(218, 23%, 23%);
+    color: rgb(218, 218, 218);
+}
+.submit-btn{
+    width: 40%;
+    height: 60px;
+}
+.floor3{
+    margin-top: 150px;
+    height: 300vh;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.f3-r1-pomifiliya{
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
+.dub-pomifiliya-p{
+    width: 100%;
+}
+.dub-pomifiliya-h1{
+    width: 100%;
+}
+
+
+.f3-r1-pomuxala{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.f3-r1-Kasandra{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.dub-pomuxala-h1{
+    width: 100%;
+}
+.dub-pomuxala-p{
+    width: 100%;
+}
